@@ -1,5 +1,5 @@
 {
-	"name": "Calendo",
+	"name": "CaIendo",
 	"short_name": "Calendo",
 	"description": "Calendo is a simple app for managing your schedule. You can organize your appointments, manage your todos and group todos by topic.",
 	"theme_color": "#1976d2",
@@ -10,43 +10,313 @@
 	"categories": ["productivity", "utilities", "tools"],
 	"icons": [
 		{
-			"src": "assets/icons/icon-72x72.png",
+			"src": "assets/icons/16x16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/dark/16x16.png",
+			"sizes": "16x16",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/20x20.png",
+			"sizes": "20x20",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/dark/20x20.png",
+			"sizes": "20x20",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/24x24.png",
+			"sizes": "24x24",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/dark/24x24.png",
+			"sizes": "24x24",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/30x30.png",
+			"sizes": "30x30",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/dark/30x30.png",
+			"sizes": "30x30",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/32x32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/dark/32x32.png",
+			"sizes": "32x32",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/36x36.png",
+			"sizes": "36x36",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/dark/36x36.png",
+			"sizes": "36x36",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/40x40.png",
+			"sizes": "40x40",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/dark/40x40.png",
+			"sizes": "40x40",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/44x44.png",
+			"sizes": "44x44",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/dark/44x44.png",
+			"sizes": "44x44",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/48x48.png",
+			"sizes": "48x48",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/dark/48x48.png",
+			"sizes": "48x48",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/50x50.png",
+			"sizes": "50x50",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/55x55.png",
+			"sizes": "55x55",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/60x60.png",
+			"sizes": "60x60",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/dark/60x60.png",
+			"sizes": "60x60",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/63x63.png",
+			"sizes": "63x63",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/64x64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/dark/64x64.png",
+			"sizes": "64x64",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/66x66.png",
+			"sizes": "66x66",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/71x71.png",
+			"sizes": "71x71",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/72x72.png",
 			"sizes": "72x72",
 			"type": "image/png"
 		},
 		{
-			"src": "assets/icons/icon-96x96.png",
+			"src": "assets/icons/dark/72x72.png",
+			"sizes": "72x72",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/75x75.png",
+			"sizes": "75x75",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/80x80.png",
+			"sizes": "80x80",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/dark/80x80.png",
+			"sizes": "80x80",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/88x88.png",
+			"sizes": "88x88",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/89x89.png",
+			"sizes": "89x89",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/96x96.png",
 			"sizes": "96x96",
 			"type": "image/png"
 		},
 		{
-			"src": "assets/icons/icon-128x128.png",
-			"sizes": "128x128",
+			"src": "assets/icons/dark/96x96.png",
+			"sizes": "96x96",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/100x100.png",
+			"sizes": "100x100",
 			"type": "image/png"
 		},
 		{
-			"src": "assets/icons/icon-144x144.png",
-			"sizes": "144x144",
+			"src": "assets/icons/107x107.png",
+			"sizes": "107x107",
 			"type": "image/png"
 		},
 		{
-			"src": "assets/icons/icon-152x152.png",
-			"sizes": "152x152",
+			"src": "assets/icons/142x142.png",
+			"sizes": "142x142",
 			"type": "image/png"
 		},
 		{
-			"src": "assets/icons/icon-192x192.png",
-			"sizes": "192x192",
+			"src": "assets/icons/150x150.png",
+			"sizes": "150x150",
 			"type": "image/png"
 		},
 		{
-			"src": "assets/icons/icon-384x384.png",
-			"sizes": "384x384",
+			"src": "assets/icons/176x176.png",
+			"sizes": "176x176",
 			"type": "image/png"
 		},
 		{
-			"src": "assets/icons/icon-512x512.png",
-			"sizes": "512x512",
+			"src": "assets/icons/188x188.png",
+			"sizes": "188x188",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/200x200.png",
+			"sizes": "200x200",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/225x225.png",
+			"sizes": "225x225",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/256x256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/dark/256x256.png",
+			"sizes": "256x256",
+			"type": "image/png",
+			"color_scheme": "light"
+		},
+		{
+			"src": "assets/icons/284x284.png",
+			"sizes": "284x284",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/300x300.png",
+			"sizes": "300x300",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/310x150.png",
+			"sizes": "310x150",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/310x310.png",
+			"sizes": "310x310",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/388x188.png",
+			"sizes": "388x188",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/388x388.png",
+			"sizes": "388x388",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/465x225.png",
+			"sizes": "465x225",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/465x465.png",
+			"sizes": "465x465",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/600x600.png",
+			"sizes": "600x600",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/620x300.png",
+			"sizes": "620x300",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/620x620.png",
+			"sizes": "620x620",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/1240x600.png",
+			"sizes": "1240x600",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icons/1240x1240.png",
+			"sizes": "1240x1240",
 			"type": "image/png"
 		}
 	],
